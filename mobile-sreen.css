@@ -1,0 +1,27 @@
+.container {
+  width: 75%;
+  height: 100%;
+}
+.first-para h4 {
+  font-size: 0.85rem;
+  width: 4.7rem;
+  padding: 0.45rem;
+}
+.first-para p {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+.second-para h2 {
+  font-size: 1rem;
+}
+.second-para p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  font-weight: 500;
+}
+.attribution {
+  font-size: 0.85rem;
+}
+.user p {
+  font-size: 0.85rem;
+}
